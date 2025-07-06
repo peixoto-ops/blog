@@ -30,14 +30,16 @@ Aqui está uma versão aprimorada do README.md com emojis, badges e seu e-mail d
 
 ```
 /
-├── content/            # Onde as notas do Obsidian serão copiadas/convertidas
-├── .github/
-│   └── workflows/      # Automação com GitHub Actions
-├── themes/
-│   └── blowfish/       # Tema Hugo Blowfish
-├── config.toml         # Configuração do Hugo
-├── README.md           # Este arquivo
+├── 📂 content/           # 📝 Onde as notas do Obsidian serão copiadas/convertidas
+├── 🤖 .github/
+│   └── ⚙️ workflows/      # 🔄 Automação com GitHub Actions
+├── 🎨 themes/
+│   └── 🐡 blowfish/       # ✨ Tema Hugo Blowfish
+├── 🔧 config.toml         # ⚙️ Configuração do Hugo
+└── 📖 README.md           # 📄 Este arquivo)
 ```
+
+
 
 ## 🔄 Fluxo Inicial
 
